@@ -1,4 +1,4 @@
-# Projet Copie Twitter - Matheo GARERI x Loris JACOB
+# Projet Clone Twitter - Matheo GARERI x Loris JACOB
 Ce dépôt contient les fichiers nécessaires pour lancer une application avec Docker Compose. Cette application est une copie de Twitter créée avec un client front-end React JS et un back-end API en NodeJS connecté à une base de données MySQL. Pour utiliser cette application, suivez les étapes ci-dessous.
 
 ## Prérequis
